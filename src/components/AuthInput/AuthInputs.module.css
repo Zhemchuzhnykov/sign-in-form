@@ -1,4 +1,4 @@
-#auth-inputs {
+.authInputs {
   width: 100%;
   max-width: 28rem;
   padding: 2rem;
@@ -66,11 +66,11 @@ input.invalid {
   background-color: #f0920e;
 }
 
-.text-button {
+.textButton {
   color: #f0b322;
   border: none;
 }
 
-.text-button:hover {
+.textButton:hover {
   color: #f0920e;
 }
